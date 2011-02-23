@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Atomic Contacts</string>
+<string name="label">Atomic Contacts</string>
+<string name="login_activity_title">Atomic Contacts Sign In</string>
+<string name="login_activity_username_label">Email</string>
+<string name="login_activity_password_label">Password</string>
+<string name="login_activity_ok_button">Sign In</string>
+<string name="login_activity_success">Success!</string>
+<string name="login_activity_failed">Failed!</string>
+<string name="account_type">com.atomiccontacts.android.account</string>
+</resources>
